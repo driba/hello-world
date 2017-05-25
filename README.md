@@ -1,2 +1,2 @@
-# hello-world
-my learning repository
+# Hello World
+My github learning repository
